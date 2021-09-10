@@ -1,0 +1,15 @@
+Q1: https://github.com/TheOnlyMiki
+
+Q2: 2.25.1 (Already have at lab machine)
+
+Q3: 2.26.0
+
+Q4: The version number of the request library is not the same.
+
+Q5: The status code returned for http://google.com is '301 Moved Permanently'. And the URL 'http://www.google.com/' I visit will get the '200 OK' status code.
+
+Q6: It returned '301 Moved Permanently', and It was returned by 'curl -i'. When I curl 'http://www.google.com/teapot', it was returned status code '418'.
+
+Q7: The REQUEST_METHOD are different, and form contents are also slight differences. POST can be send the data, and modify the webserver.
+
+Q8: https://github.com/TheOnlyMiki/CMPUT-404---Lab-1.git
